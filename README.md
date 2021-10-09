@@ -11,3 +11,6 @@ https://shuu1104.com/2021/04/2827/
 - React-router-domの導入の仕方
 npm install react-router-dom
 https://qiita.com/k-penguin-sato/items/e46725edba00013a8300
+
+- tailwindCSSの日本語ドキュメント
+https://tailwindcss.jp/
