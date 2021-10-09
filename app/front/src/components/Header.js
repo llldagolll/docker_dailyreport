@@ -16,7 +16,7 @@ const Header = () => {
                     <p className="text-2xl text-white font-semibold">WithUs</p>
                 </div>
                 <div className="text-2xl text-white font-semibold inline-flex items-center">
-                    <Link to={`/home`}>
+                    <Link to={`/`}>
                         <a className="ml-5 px-2 py-1">Logout</a>
                     </Link>
                 </div>
